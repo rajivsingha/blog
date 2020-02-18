@@ -3,7 +3,7 @@ baseline: "Search Engine Optimization(SEO) Practitioner"
 description: "A blog to share my thoughts..."
 keywords: ""
 author: "Rajiv Singha"
-baseurl: "https://rajivsingha.netlify.com/"
+baseurl: "https://rajivsingha.com/"
 canonicalurl: true
 theme: "hyde"
 date:
