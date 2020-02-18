@@ -1,7 +1,7 @@
 ---
 title: About
 menu: main
-draft: true
+draft: false
 ---
 > I will write something as soon as I can think of something nice
 
