@@ -9,7 +9,7 @@ Hey everyone!
 
 BTW, this site was built using a SSG because I had almost no intentions of setting up Wordpress.
 
-My first choice was Ghost. Love it's editor to the moon and back!
+My first choice was Ghost. Love its editor to the moon and back!
 
 Unfortunately, setting up Ghost was a bit more complicated than I could handle and although Digital Ocean had a pretty straightforward 1 click install process, I still managed to run into issues.
 
