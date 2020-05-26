@@ -30,7 +30,7 @@ Seizing opportunities for 2014 Retailers seem to be getting back on track: Top 3
 3. Ecommerce Platform
 
 
-	<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.4.js"></script>
+
 <script type="text/javascript">
    $(document).ready(function () {
       setTimeout(function () {
