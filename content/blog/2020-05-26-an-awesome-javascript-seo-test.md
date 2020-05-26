@@ -1,7 +1,7 @@
 ---
 title: An awesome javascript SEO test
 date: 2020-05-26T17:35:11.923Z
-draft: true
+draft: false
 ---
 ## Biggest Missed Opportunity for Ecommerce Marketers
 
